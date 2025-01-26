@@ -26,4 +26,8 @@ This is a Zomato data analysis dashboard created using **Power BI**. The project
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+>>>>>>> 4dff47917c10be7e9c699801e5fbb40fe18fcccc
