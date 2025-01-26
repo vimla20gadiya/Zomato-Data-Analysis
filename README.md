@@ -16,7 +16,7 @@ This is a Zomato data analysis dashboard created using **Power BI**. The project
 
 ## Screenshots
 
-![Dashboard Screenshot](images/dashboard_image.png)
+![Dashboard Screenshot]("data anyslt\dashboard_image.png")
 
 ## How to Access the Dashboard
 
